@@ -118,7 +118,7 @@ ggplot(washington, aes(day)) + geom_bar()+
 #Wednesday sees most trips in washington.
 ```
 ###
-#What is the most common hour of day?
+#What is the most common hour of day in all cities?
 
 in chicago
 
